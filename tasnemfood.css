@@ -1,0 +1,177 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    box-shadow: none ;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: url(fluffyamericanpancak_74828_16x9.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    
+}
+header .maintext1 {
+    
+    position: absolute;
+    top: 22%;
+    left: 10%;
+    font-family:  cursive;
+
+}
+.maintext h1:hover {
+    color: darkgoldenrod;
+}
+.maintext1 h1{
+    text font-weight: 300;
+    letter-spacing: 3px;
+    
+}
+button
+{
+    border-radius: 100px;
+    background-color: transparent;
+    border-color: darkgoldenrod;
+}
+button:hover{
+    
+    background-color: darkgoldenrod;
+            }
+/*nav*/
+
+.row .logo{
+    position: absolute;
+    top: 8%;
+    left: 5%;
+    width: 15%;
+    height: 15%;
+          }
+.js--wp-3 li{
+    display: inline-block;
+    float: right;
+    margin: 4% 2% 2% 2%;
+
+       }
+
+.row li:active,
+.row li:hover{
+    border: 100% solid ;
+    border-bottom-color: darkgoldenrod;
+}
+    
+.row li a{
+    color: black;
+    text-decoration: none;
+    
+         }   
+/*SECTION*/
+.row h2{
+    text-align: center;
+    margin: 2%;
+}
+.row p{
+    text-align: center;
+}
+.features{
+    margin-right:10%;
+    margin-left: 10%;
+    
+}
+
+.section-meals ul{
+    margin: 0;
+    padding: 0;
+}
+.section-meals ul li {
+    display: inline-block;
+    width : 19.5%;
+}
+.section-meals ul li img {
+    width: 100%;
+    
+}
+
+.col #phonepic {
+    width: 25%;
+    margin-left: 50%;
+}
+
+.col ul {
+    display: block;
+    margin-right: 50%;
+    
+}
+.steps-box span{
+    border-style:ridge;
+    background-color: darkgoldenrod;
+    border-radius: 50%;
+    border-color: transparent;
+    height: 50%;
+}
+
+.buttons{
+    margin-top: 40%;
+    margin-left: 5%; 
+}
+.buttons #button11{
+    background-color: black;
+    color: aliceblue;
+    width: 20%;
+    line-height: 500%; height: 50%;
+    border-radius: 0;
+    border-color: transparent;
+}
+.buttons #button22{
+    background-color: green;
+    width: 20%;
+    line-height: 500%; height: 50%;
+    border-radius: 0;
+    border-color: transparent;
+}
+
+.section-cities .col{
+    text-align: center;
+}
+.section-cities .col img{
+    width: 70%;
+    text-align: center;
+} 
+
+
+.section-testimonials{
+    background-image: url(back-customers.jpg);
+}
+
+.section-testimonials img{
+    border-radius: 50%;
+}
+.section-testimonials h2{
+    text-decoration: solid ;
+}
+.section-testimonials blockquote {
+    color: aliceblue;
+}
+
+figcaption{
+    color: aliceblue;
+}
+h3{
+    text-align: center;
+}
+
+ 
+
+.plan-box{
+    width: 90%;
+    margin-left: 5%;
+    background-color: bisque;
+    height: 100%;
+    text-align: center;
+    
+}
+.plan-box li{
+    margin-left: 30%;
+    list-style:outside;
+}
