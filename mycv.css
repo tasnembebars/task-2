@@ -1,0 +1,48 @@
+.personalinfo .col img{
+    width: 20%;
+    height: 10%;
+    border-radius: 100%;
+    border-style:double;
+    margin-left: 30%;
+    
+
+}
+.yemen{
+    margin-top: 5%;
+}
+.education,
+.exp{
+    margin-top: 10%;
+}
+.personalinfo,
+.profilee,
+.contactt,
+.skillss{
+    margin-left: 10%;
+    margin-top: 10%;
+    background-color: azure;
+    margin-right: 10%;
+}
+#job{
+    margin-left: 30%;
+}
+#name{
+    margin-left: 30%;
+}
+
+.education h1,
+.profilee h1,
+.contactt h1,
+.skillss h1,
+.exp h1{
+    display: inline;
+    margin-left: 0%;
+}
+
+h4{
+    display: inline;
+    margin-left: 2%;
+}
+.contactt h3{
+    display: inline
+}
